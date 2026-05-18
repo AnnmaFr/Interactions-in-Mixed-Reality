@@ -68,7 +68,6 @@ The focus of the project was on immersive interaction and synchronized multiplay
 
 - Unity
 - C#
-- VR Interaction Systems
 - Multiplayer Networking
 - Hand Tracking & Gestures
 - Physics Simulation
@@ -79,25 +78,11 @@ The focus of the project was on immersive interaction and synchronized multiplay
 
 ## My Contributions
 
+- Design and implementation of virtual environment
 - Development of VR interaction mechanics
 - Gesture-based object spawning
-- Multiplayer synchronization
-- Navigation and movement systems
 - Environmental interaction design
-- Audio and feedback integration
-- Game logic implementation
-
----
-
-## Challenges
-
-One of the primary challenges was synchronizing multiplayer interactions and shared objects in real time while maintaining responsive gameplay.
-
-Additional challenges included:
-- implementing reliable gesture recognition
-- synchronizing physics-based bowling balls
-- designing intuitive VR navigation techniques
-- coordinating cooperative player interactions
+- Audio and visual feedback integration
 
 ---
 
@@ -110,8 +95,9 @@ The goal of this project was to explore interaction, navigation, and collaborati
 ## Screenshots
 
 
+https://github.com/user-attachments/assets/21b57d46-b713-4d7f-80c5-44d9ac8d9632
+
+
 https://github.com/user-attachments/assets/32423126-09d5-46fe-a398-f8a855aa8d0f
 
-
-https://github.com/user-attachments/assets/21b57d46-b713-4d7f-80c5-44d9ac8d9632
 
